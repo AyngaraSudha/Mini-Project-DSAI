@@ -13,6 +13,7 @@ Sundar Subramanian Ayngara Sudha (U2321482C) <br> Harshia Socratees (U2320903C)
 ## Data Preparation and Exploratory Analysis
 
 ## Machine Learning
+This will cover the splitting of data into training and testing sets,
 
 ## Conclusion
 
