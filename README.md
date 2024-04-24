@@ -20,7 +20,8 @@ We grouped similar expenditure coloumns such as personal_care and health_wellnes
 <br> organised exploratory analysis and to simplify comparisons
 
 ## Conclusion 
-In conclusion,
+- The box plots, histograms, and the violin plots showed that students maintained conservative spending habits.
+- 
 
 ## Our Learning Points
 - Column Inspection
