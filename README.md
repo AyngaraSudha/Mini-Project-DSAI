@@ -21,7 +21,10 @@ We grouped similar expenditure coloumns such as personal_care and health_wellnes
 
 ## Conclusion 
 - The box plots, histograms, and the violin plots showed that students maintained conservative spending habits.
-- 
+- The multi class classifications shows that the test set is not that accurate as classification accuracy is low
+- Random Forest is better model than multi class classifications 
+- Random forest accuracy can be increased by having hyperparameter tuing and cross validation. 
+  
 
 ## Our Learning Points
 - Column Inspection
