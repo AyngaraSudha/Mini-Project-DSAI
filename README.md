@@ -23,7 +23,7 @@ We grouped similar expenditure coloumns such as personal_care and health_wellnes
 In conclusion,
 
 ## Our Learning Points
-- Coloumn Inspection
+- Column Inspection
 - Random Forest Regression
 - Concepts of F1,Precision,Recall and Support
 - Github Collaboration
